@@ -14,7 +14,7 @@ QUESTION 4: Data Structures
  - determine if the key 16 exists,
     - if so check if the value is "sixteen"
     - if not add it with the value
- - add the key 12 with the
+ - add the key 12 with the value of 12
  - remove the key 3 if it exists
  - set the value of key 5 to the value of key 6
  */

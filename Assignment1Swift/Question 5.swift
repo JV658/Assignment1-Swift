@@ -15,7 +15,7 @@ determine if 'arr' has any duplicates values
 any element that is repeated in the 'arr' array; store that element value in the 'duplicate' array
  */
     let arr = arr
-    let duplicates = [Int]()
+    var duplicates = [Int]()
     
     
 /**
